@@ -1,0 +1,47 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins' , sans-serif;
+    overflow-x: hidden;
+   
+} 
+
+#hero {
+
+   
+    background-image: url(hero\ bg\ 4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding-top: 40px;
+    
+}
+#info {
+    position: relative;
+    top: 20%;
+    left: 20px;
+}  
+#info h1 {
+    font-size: 4rem;
+}
+
+#info  p {
+    color: lightgray;
+
+}
+#about {
+    display: flex;
+    margin-top: 40px; 
+    justify-content: space-between;
+     flex-wrap: wrap;
+} 
+
+#about #about_info {
+      height: 400px;
+      width: 600px; 
+      line-height: 36px;
+      padding-top: 40px;
+}
+
