@@ -16,6 +16,7 @@ body {
     background-size: cover;
     height: 600px;
     padding-top: 40px;
+    max-width: 100%;
     
 }
 #info {
@@ -44,4 +45,5 @@ body {
       line-height: 36px;
       padding-top: 40px;
 }
+
 
